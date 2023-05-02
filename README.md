@@ -1,7 +1,7 @@
 Bom Projeto!! 
 
-Doc: https://kenzie-academy-brasil-developers.github.io/m2-empresas-doc
+Doc: http://localhost:3333/api-documentation/
 
-Fgima: https://www.figma.com/file/EEEdGd0gL5iLzaspW8DPXE/Kenzie-Empresas-Oficial
+Fgima: https://www.figma.com/file/lrbOLWLRjonxYYVOxeLEQm/%5BM2%5D-%F0%9F%8F%81-Entrega---Kenzie-Empresas
 
 APi Local: https://github.com/Kenzie-Academy-Brasil-Developers/kenzie-empresas-API
